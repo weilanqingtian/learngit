@@ -1,2 +1,2 @@
 hello git!
-this next line
+this next line GPL
